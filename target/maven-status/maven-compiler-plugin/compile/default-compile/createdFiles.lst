@@ -1,0 +1,9 @@
+ua\work\dao\UserLessonsRepository.class
+ua\work\controller\UpdateController.class
+ua\work\dao\entity\UserData.class
+ua\work\configuration\BotConfig.class
+ua\work\TGBotApplication.class
+ua\work\service\AudioService.class
+ua\work\dao\entity\UserLessons.class
+ua\work\dao\UserDataRepository.class
+ua\work\controller\TelegramBot.class
